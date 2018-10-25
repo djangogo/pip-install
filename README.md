@@ -6,6 +6,7 @@ This repo demonstrate how to install pip's latest version
 （注意安装顺序，否则安装之后pip就会指向pip3，必须首先安装pip3然后安装pip2）
 
 这里会安装到/usr/lib/python2.7/dist-packages/pip和/usr/lib/python2.7/dist-packages/pip3这个位置了
+
 安装pip3
 ``` bash
     sudo apt install python3-pip
